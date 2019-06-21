@@ -1,0 +1,7 @@
+C:\Users\Nazif\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\Nazif\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\Nazif\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\Nazif\source\repos\HomeWork3\HomeWork3\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Nazif\source\repos\HomeWork3\HomeWork3\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Nazif\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\Nazif\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb

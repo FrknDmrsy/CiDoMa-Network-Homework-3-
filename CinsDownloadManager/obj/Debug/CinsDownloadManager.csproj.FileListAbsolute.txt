@@ -1,0 +1,30 @@
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\bin\Debug\CinsDownloadManager.exe.config
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\bin\Debug\CinsDownloadManager.exe
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\bin\Debug\CinsDownloadManager.pdb
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.csprojAssemblyReference.cache
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.Form1.resources
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.Properties.Resources.resources
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.csproj.GenerateResource.cache
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.exe
+C:\Users\Nazif\source\repos\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.pdb
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\bin\Debug\CinsDownloadManager.exe.config
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\bin\Debug\CinsDownloadManager.exe
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\bin\Debug\CinsDownloadManager.pdb
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.csprojAssemblyReference.cache
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.Form1.resources
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.Properties.Resources.resources
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.csproj.GenerateResource.cache
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.exe
+C:\Users\L\Desktop\3. ödev\HomeWork3\CinsDownloadManager\obj\Debug\CinsDownloadManager.pdb
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\bin\Debug\CinsDownloadManager.exe.config
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\bin\Debug\CinsDownloadManager.exe
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\bin\Debug\CinsDownloadManager.pdb
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\obj\Debug\CinsDownloadManager.csprojAssemblyReference.cache
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\obj\Debug\CinsDownloadManager.Form1.resources
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\obj\Debug\CinsDownloadManager.Properties.Resources.resources
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\obj\Debug\CinsDownloadManager.csproj.GenerateResource.cache
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\obj\Debug\CinsDownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\obj\Debug\CinsDownloadManager.exe
+C:\Users\L\Desktop\140316040 _İlke Genç\CiDoMa\CinsDownloadManager\obj\Debug\CinsDownloadManager.pdb

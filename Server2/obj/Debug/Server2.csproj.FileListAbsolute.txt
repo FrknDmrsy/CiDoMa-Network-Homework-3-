@@ -1,0 +1,14 @@
+C:\Users\Nazif\source\repos\HomeWork3\Server2\bin\Debug\HomeWork3.exe.config
+C:\Users\Nazif\source\repos\HomeWork3\Server2\bin\Debug\HomeWork3.exe
+C:\Users\Nazif\source\repos\HomeWork3\Server2\bin\Debug\HomeWork3.pdb
+C:\Users\Nazif\source\repos\HomeWork3\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\Nazif\source\repos\HomeWork3\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\Nazif\source\repos\HomeWork3\Server2\obj\Debug\HomeWork3.exe
+C:\Users\Nazif\source\repos\HomeWork3\Server2\obj\Debug\HomeWork3.pdb
+C:\Users\L\Desktop\3. ödev\HomeWork3\Server2\bin\Debug\HomeWork3.exe.config
+C:\Users\L\Desktop\3. ödev\HomeWork3\Server2\bin\Debug\HomeWork3.exe
+C:\Users\L\Desktop\3. ödev\HomeWork3\Server2\bin\Debug\HomeWork3.pdb
+C:\Users\L\Desktop\3. ödev\HomeWork3\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\L\Desktop\3. ödev\HomeWork3\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\L\Desktop\3. ödev\HomeWork3\Server2\obj\Debug\HomeWork3.exe
+C:\Users\L\Desktop\3. ödev\HomeWork3\Server2\obj\Debug\HomeWork3.pdb
